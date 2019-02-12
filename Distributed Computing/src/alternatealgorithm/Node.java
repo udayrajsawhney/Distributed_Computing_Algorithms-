@@ -1,3 +1,10 @@
+/*
+ * Developed by udaysawhney on 12/2/19 1:27 PM.
+ * Last modified 9/2/19 8:44 PM.
+ * Github : https://github.com/udayrajsawhney
+ * Copyright (c) 2019. All rights reserved.
+ */
+
 package alternatealgorithm;
 
 public class Node {
